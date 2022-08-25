@@ -1,1 +1,1 @@
-# zippy
+# Zippy-Huffman-Encoding
